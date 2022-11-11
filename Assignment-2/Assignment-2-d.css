@@ -1,0 +1,48 @@
+body{
+    font-family: Arial;
+}
+
+.card{
+    width: 850px;
+    height: 700px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 50px auto;
+    background-color: rgb(229, 241, 245);
+}
+
+.card-img{
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.card-txt{
+    position: absolute;
+    margin-top: 70px;
+    padding-left: 70px;
+}
+
+.card-flat{
+    font-size: 40px;
+    color: gray;
+    margin-bottom: 15px;
+}
+
+.card-price{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.card-flights{
+    font-size: 40px;
+    font-family: vardana;
+}
+
+.card-cupon{
+    font-size: 50px;
+    border: 6px dotted blue;
+    padding: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    border-radius: 15px;
+}

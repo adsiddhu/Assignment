@@ -1,0 +1,56 @@
+body {
+    font-family: Arial;
+}
+
+.card {
+    width: 500px;
+    height: 750px;
+    border: 2px solid grey;
+    margin: 10px auto;
+    border-radius: 30px;
+}
+
+.card-img {
+    width: 500px;
+    height: 300px;
+    padding: 0px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.card-txt-sub {
+    font-size: 20px;
+    color: grey;
+    margin: 30px;
+}
+
+.card-txt-feature {
+    font-size: 35px;
+    margin: 30px;
+}
+
+.card-txt-para {
+    font-size: 25px;
+    color: grey;
+    margin: 0 30px;
+}
+
+.card-btn {
+    margin: 30px;
+    padding: 15px 30px;
+    font-size: 25px;
+    color: dodgerblue;
+    background-color: white;
+}
+
+.card-plan{
+    font-size: 20px;
+    position: absolute;
+    border: white;
+    background-color: white;
+    border-radius: 20px;
+    top: 0;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 10px;
+}

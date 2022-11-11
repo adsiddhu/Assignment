@@ -1,0 +1,79 @@
+body {
+    margin: 20px;
+}
+
+.card-body {
+    width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+}
+
+.nature-img {
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 45px;
+}
+
+.address {
+    margin: 20px;
+    font-size: 40px;
+}
+
+.price {
+    font-size: 40px;
+    margin: 20px;
+    color: green;
+    display: inline-block;
+}
+
+p {
+    display: inline-block;
+    font-size: 25px;
+    color: gray;
+}
+
+.top-right-rating {
+    color: yellowgreen;
+    font-size: 30px;
+    border-radius: 15px;
+    padding: 5px 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 80px;
+    margin-top: 15px;
+}
+
+.rating-star {
+    color: darkgoldenrod;
+    padding: 15px;
+}
+
+.bottom-rating {
+    font-size: 30px;
+    color: white;
+    border: 2px solid rebeccapurple;
+    border-radius: 15px;
+    display: inline-block;
+    position: absolute;
+    bottom: 175px;
+    padding: 20px;
+    margin: 50px;
+}
+
+.top-left-rating {
+    font-size: 35px;
+    color: dodgerblue;
+    border: 1px solid white;
+    border-radius: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    margin: 50px;
+}
