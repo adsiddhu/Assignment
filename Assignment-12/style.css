@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(204, 204, 204);
+    margin: auto;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.player_one,
+.player_two {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 15px;
+}
